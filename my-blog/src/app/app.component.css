@@ -1,0 +1,41 @@
+.image{
+  margin-top: -1.60em;
+  margin-right: auto;
+  height:80em; background-size:cover; width:auto;
+  background-image:url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80');
+  background-attachment: fixed;
+
+}
+
+.greeting h1 {
+  font-family: 'Monotype Corsiva', sans-serif;
+  font-weight: lighter;
+  font-size: 75px;
+  text-align: center;
+  line-height: 1em;
+}
+.greeting p {
+  font-family: 'Monotype Corsiva', sans-serif;
+  font-weight: lighter;
+  font-size: 25px;
+  text-align: center;
+  line-height: 20px;
+}
+/*
+V Imp
+.greeting h1 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: lighter;
+  font-size: 100px;
+  text-align: center;
+  margin: 0
+}
+.greeting h2 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: lighter;
+  font-size: 35px;
+  text-align: center;
+  margin: 0
+}
+*/
+

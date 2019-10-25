@@ -1,0 +1,42 @@
+img {
+  display: block;
+  margin-left: 55%;
+  margin-right: auto;
+}
+
+.greeting h1 {
+  font-family: 'Monotype Corsiva', sans-serif;
+  font-weight: lighter;
+  font-size: 30px;
+  text-align: center
+}
+.greeting h2 {
+  font-family: 'Monotype Corsiva', sans-serif;
+  font-weight: lighter;
+  font-size: 35px;
+  line-height: 1em;
+  text-align: center;
+  margin-top: 2em;
+}
+.greeting h3 {
+  font-family: 'Monotype Corsiva', sans-serif;
+  font-weight: lighter;
+  font-size: 35px;
+  line-height: 1em;
+  text-align: center
+
+}
+.greeting h4 {
+  font-family: 'Monotype Corsiva', sans-serif;
+  font-weight: lighter;
+  font-size: 30px;
+  line-height: 1em;
+  text-align: center
+}
+.greeting h5 {
+  font-family: 'Monotype Corsiva', sans-serif;
+  font-weight: lighter;
+  font-size: 35px;
+  line-height: 1em;
+  text-align: center
+}
